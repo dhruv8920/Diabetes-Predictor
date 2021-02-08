@@ -1,12 +1,5 @@
-{
- "cells": [
-  {
-   "cell_type": "code",
-   "execution_count": 7,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "import numpy as np\n",
+
+    import numpy as np
     "import pandas as pd\n",
     "import pickle\n",
     "\n",
